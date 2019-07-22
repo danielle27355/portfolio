@@ -1,0 +1,156 @@
+
+.Nav{
+    background-color: rgb(101, 101, 101);
+    font-family: 'Courgette', cursive;
+    width: 100% 
+}
+.unLi{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    background-color: rgb(101, 101, 101)
+
+}
+.unLi a{
+
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    margin: 10px 10px;
+    font-size: 40px;
+    font-weight: 200;
+    font-stretch: ultra-condensed;
+    text-shadow: 2px 2px 2px gray;
+}
+
+.resNav{
+    display: flex;
+    align-items: center;
+    background-color: rgb(101, 101, 101);
+
+}
+
+.home img{
+    margin: 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+
+.aboutme{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+
+}
+
+.projects{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+ 
+    white-space: nowrap;
+    
+}
+.contactme{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    white-space: nowrap;
+}
+.findmeonline{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+   
+    white-space: nowrap;
+
+}
+ 
+/* .home:hover{
+    background-color: white;
+} */
+.aboutme:hover{
+    background-color: rgb(182, 142, 170);
+}
+
+.contactme:hover{
+    background-color: lightblue;
+} 
+.findmeonline:hover{
+    /* background-color:  rgb(182, 142, 170); */
+    background-color:  lightblue;
+} 
+.projects:hover{
+    background-color: lightgreen;
+} 
+/* a:hover {
+      color: black;
+}  */
+
+/* .resNav a:hover{
+    color: black;
+} */
+
+
+/*  
+ .resNav{
+    float: right;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    
+
+    display: block;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    padding: 25px 20px;
+    font-size: 30px;
+    font-weight: 500;
+    font-stretch: ultra-condensed;
+    text-shadow: 2px 2px 2px gray
+}
+
+.home{
+    list-style-type: none;
+    text-align: left;
+} 
+
+ul{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(101, 101, 101)
+}
+
+li a{
+    font-size: 25px;
+    padding: 10px;
+    text-decoration: none;
+}
+*/
+
+body {
+    background-image: linear-gradient(to left,
+      rgb(255,255,255) 0%,
+      rgb(230,230,230) 20%,
+      rgb(205,205,205) 20%,
+      rgb(180,180,180) 40%,
+      rgb(155,155,155) 40%,
+      rgb(130,130,130) 60%,
+      rgb(155,155,155) 60%,
+      rgb(180,180,180) 80%,
+      rgb(205,205,205) 80%,
+      rgb(225,225,225) 100%
+    );
+    background-size: 10% 4px;
+  }
+  
+

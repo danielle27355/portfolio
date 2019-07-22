@@ -1,0 +1,49 @@
+.About{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    text-shadow: 2px 2px 2px black;
+
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(182, 142, 170);
+    border: 10px;
+    margin: 15px;
+    border-radius: 25px;
+    height: 400px;
+    width: 450px;
+}
+
+.me{
+    /* padding: 10px; */
+
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightblue;
+}
+.debussy{
+    /* padding: 10px; */
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightgreen;
+}
+.mastodon{
+    /* padding: 10px; */
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(182, 142, 170);;
+}
+.slayer{
+    /* padding: 10px; */
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightblue;
+}
