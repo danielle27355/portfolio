@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f1cdc1e.chunk.css",
+    "main.css": "/static/css/main.e09256b2.chunk.css",
     "main.js": "/static/js/main.d17adbed.chunk.js",
     "main.js.map": "/static/js/main.d17adbed.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.cb20ee1e.chunk.js": "/static/js/2.cb20ee1e.chunk.js",
     "static/js/2.cb20ee1e.chunk.js.map": "/static/js/2.cb20ee1e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.663cdfe76d7ff9a212289faa3caf0390.js": "/precache-manifest.663cdfe76d7ff9a212289faa3caf0390.js",
+    "precache-manifest.f3fda096658f62a3367767fb01a3d607.js": "/precache-manifest.f3fda096658f62a3367767fb01a3d607.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9f1cdc1e.chunk.css.map": "/static/css/main.9f1cdc1e.chunk.css.map",
+    "static/css/main.e09256b2.chunk.css.map": "/static/css/main.e09256b2.chunk.css.map",
     "static/media/debussy.jpg": "/static/media/debussy.7e3753d3.jpg",
     "static/media/logo.png": "/static/media/logo.f55c2e80.png",
     "static/media/mastodon.jpg": "/static/media/mastodon.8a9823ea.jpg",
