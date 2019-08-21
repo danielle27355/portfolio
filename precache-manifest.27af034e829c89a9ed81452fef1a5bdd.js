@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc3c0c88e1f7b637cca67515b024a146",
+    "revision": "a22cf0cc66763bc83b7bef733918ace6",
     "url": "/index.html"
   },
   {
-    "revision": "3e19b6a84fd4967aa2d1",
-    "url": "/static/css/main.e09256b2.chunk.css"
+    "revision": "165c02bcebdded3ef2b9",
+    "url": "/static/css/main.ae3d7ef0.chunk.css"
   },
   {
-    "revision": "4e62355655dd0ec799b2",
-    "url": "/static/js/2.cb20ee1e.chunk.js"
+    "revision": "8b733d7142ef83edb860",
+    "url": "/static/js/2.de9e12ec.chunk.js"
   },
   {
-    "revision": "3e19b6a84fd4967aa2d1",
-    "url": "/static/js/main.d17adbed.chunk.js"
+    "revision": "165c02bcebdded3ef2b9",
+    "url": "/static/js/main.e83e10a5.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e3753d38a5cb23e5c0070f1965ff676",
     "url": "/static/media/debussy.7e3753d3.jpg"
+  },
+  {
+    "revision": "cc7be421c0e1c267325326f325a8bcbf",
+    "url": "/static/media/kittiesSS.cc7be421.png"
   },
   {
     "revision": "f55c2e80a952ca05467a7ba09b331304",
