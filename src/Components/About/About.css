@@ -1,49 +1,231 @@
-.About{
+/* .Page{
+    text-align: center;
+} */
+/* .AboutTitle{
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    padding: 30px;
+    text-align: right;
+    color: white;
+    background-color: lightgreen;
+    border-radius: 25px;
+    justify-content: right;
+    align-items: right;
+    text-shadow: 2px 2px 2px black; 
+    margin-top: 50px;
+    font-size: 60px;
+} */
+
+
+/* .About{
     display: flex;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
     margin: auto;
     text-shadow: 2px 2px 2px black;
+    align-items: center;
+}  */
 
-}
-.text{
+
+
+/* .text{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:  rgb(182, 142, 170);
+    background-color: rgb(182, 142, 170);
     border: 10px;
-    margin: 15px;
+    padding: 20px;
+    margin: 5px 20px 20px 20px;
     border-radius: 25px;
-    height: 400px;
-    width: 450px;
-}
+    height: 55%;
+    width: 70%
+} */
 
-.me{
-    /* padding: 10px; */
+/* .captions{
+    background-color: rgb(182, 142, 170);
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 25px;
+    margin: 10px 0px 0px 10px;
+    display: inline;
+} */
 
-    margin-top: 20px;
+/* .me{
+    padding: 10px;
+
+    margin-top: 75px;
     border-style: solid;
     border-width: 5px;
     border-color: lightblue;
-}
-.debussy{
-    /* padding: 10px; */
+    background-color: rgb(182, 142, 170);
+    height: 55%;
+    width: 55%;
+
+} */
+/* .debussy{
+    padding: 10px;
     border-style: solid;
+    margin-top: 50px;
     border-width: 5px;
     border-color: lightgreen;
-}
-.mastodon{
-    /* padding: 10px; */
+    height: 55%;
+    width: 70%;
+} */
+/* .mastodon{
+    padding: 10px;
     border-style: solid;
-    border-width: 5px;
-    border-color: rgb(182, 142, 170);;
-}
-.slayer{
-    /* padding: 10px; */
-    border-style: solid;
+    margin-top: 20px;
     border-width: 5px;
     border-color: lightblue;
+    height: 70%;
+    width: 70%;
+} */
+/* .slayer{
+    padding: 10px;
+    border-style: solid;
+    margin-top: 20px;
+    border-width: 5px;
+    border-color: lightgreen;
+    height: 70%;
+    width: 70%;
+} */
+
+
+
+
+
+
+/* @media only screen and (max-width: 700px) {
+    
+    .Page{
+        text-align: center;
+        
+    }
+    .AboutTitle{
+        display: inline-flex;
+        display: flex;
+        font-family: 'Roboto', sans-serif;
+        padding: 20px;
+        text-align: right;
+        color: white;
+        background-color: lightgreen;
+        border-radius: 25px;
+        justify-content: right;
+        align-items: right;
+        text-shadow: 2px 2px 2px black;
+        margin-top: 30px;
+        font-size: 40px;
+    
+    }
+    
+    
+    .About{
+        display: flex;
+        display: block;
+        justify-content: center;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 15px;
+        text-align: center;
+        margin: auto;
+        text-shadow: 2px 2px 2px black;
+        align-items: center;
+    } 
+    
+    
+    
+    .text{
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(182, 142, 170);
+        border: 10px;
+        padding: 15px;
+        margin: 30px 20px 20px 20px;
+        border-radius: 25px;
+        height: 55%;
+        width: 75%
+    }
+    
+    .captions{
+        background-color: rgb(182, 142, 170);
+        display: inline-flex;
+        padding: 15px;
+        margin: 15px;
+        border-radius: 15px;
+        line-height: 10px;
+        display: inline;
+    }
+    
+    .me{
+        padding: 10px;
+
+        margin-top: 20px;
+        border-style: solid;
+        border-width: 5px;
+        border-color: lightblue;
+        background-color: rgb(182, 142, 170);
+        height: 70%;
+        width: 70%;
+    
+    }
+    .debussy{
+        padding: 10px;
+        border-style: solid;
+        margin-top: 20px;
+        border-width: 5px;
+        border-color: lightblue;
+        height: 70%;
+        width: 70%;
+    }
+    .mastodon{
+        padding: 10px;
+        border-style: solid;
+        margin-top: 40px;
+        border-width: 5px;
+        border-color: lightblue;
+        height: 70%;
+        width: 70%;
+    }
+    .slayer{
+        padding: 10px;
+        border-style: solid;
+        margin-top: 40px;
+        border-width: 5px;
+        border-color: lightblue;
+        height: 70%;
+        width: 70%;
+        
+    }
+    
+
+
+  } */
+
+
+  .about-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 60px 20px 20px 20px;
+    text-align: right;
+
+
+    background-color: lightblue;
+    border-radius: 25px;
+    padding: 10px;
+  }
+
+
+  @media only screen and (min-width: 700px){
+    .about-title{
+        font-size: 50px;
+        margin: 100px 50px 50px 40px;
+        line-height: 25px;
+
+        border-radius: 40px;
+        padding: 20px;
+    }
 }
